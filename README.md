@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://web.telegram.org/#/im?p=u950410773_12500119169340535156">
+<a href="https://web.telegram.org/@DudakovaDasha">
   <img align="left" alt="Dasha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://github.com/DashaDudakova">
