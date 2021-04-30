@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <a href="https://web.telegram.org/#/im?p=u950410773_12500119169340535156">
   <img align="left" alt="Dasha's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://github.com/DashaDudakova">
+  <img align="left" alt="github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" />
+</a>
 
 <br />
 
